@@ -1,0 +1,14 @@
+
+client_secret.json
+youtube_token.json
+
+shorts/*
+uploaded/*
+processed/*
+
+!shorts/.gitkeep
+!uploaded/.gitkeep
+!processed/.gitkeep
+
+__pycache__/
+*.pyc
